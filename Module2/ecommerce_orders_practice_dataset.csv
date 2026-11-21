@@ -1,0 +1,351 @@
+Order_ID,Order_Date,Customer_Age,City,Product,Category,Quantity,Unit_Price_INR,Discount_Percent,Total_Amount_INR,Payment_Method,Sales_Channel,Customer_Rating
+ORD10001,2025-09-21,63.0,Bengaluru,Keyboard,Accessories,2,1695.11,,2542.66,Net Banking,Store,3.0
+ORD10002,2025-07-04,65.0,Kolkata,Smartwatch,Wearables,1,6167.45,25.0,4625.59,debit card,Store,
+ORD10003,2025-02-10,60.0,Bengaluru,Keyboard,Accessories,1,1846.71,5.0,1754.37,Credit Card,Mobile App,4.3
+ORD10004,2025-12-01,104.0,Pune,Headphones,Accessories,2,2903.48,25.0,4355.22,Cash on Delivery,Marketplace,4.0
+ORD10005,2025-08-09,30.0,Delhi,Laptop,Computers,3,66271.07,0.0,198813.21,Net Banking,Marketplace,4.7
+ORD10006,2025-04-03,40.0,Delhi,Smartphone,Mobiles,1,29737.87,10.0,26764.08,Debit Card,Mobile App,3.6
+ORD10007,2025-06-30,42.0,Pune,Monitor,Computers,1,13007.94,25.0,9755.96,UPI,Marketplace,5.0
+ORD10008,2025-02-05,57.0,Pune,Monitor,Computers,2,14573.44,0.0,29146.88,,Mobile App,4.4
+ORD10009,2025-06-02,22.0,Bengaluru,Tablet,Computers,2,25844.61,0.0,51689.22,UPI,Mobile App,5.0
+ORD10010,2025-06-06,33.0,Bengaluru,Smartphone,Mobiles,4,24617.83,5.0,93547.75,UPI,Mobile App,4.1
+ORD10011,2025-10-15,22.0,Delhi,Smartwatch,Wearables,2,7046.92,25.0,10570.38,Credit Card,Store,
+ORD10012,2025-07-08,42.0,,Laptop,Computers,1,54324.31,20.0,43459.45,Debit Card,Website,4.9
+ORD10013,2025-04-03,36.0,Hyderabad,Smartphone,Mobiles,1,24712.76,25.0,18534.57,Debit Card,Store,4.4
+ORD10014,2025-08-15,38.0,Kolkata,Keyboard,Accessories,3,2053.81,5.0,5853.36,Cash on Delivery,Store,3.6
+ORD10015,2025-03-04,22.0,Hyderabad,Tablet,Computers,3,24554.09,15.0,62612.93,Net Banking,Mobile App,5.0
+ORD10016,2025-12-06,54.0,Pune,Smartphone,Mobiles,4,27529.38,15.0,93599.89,Credit Card,Mobile App,4.1
+ORD10017,2025-08-16,,Pune,Keyboard,Accessories,2,1580.1,20.0,2528.16,Debit Card,Mobile App,4.6
+ORD10018,2025-03-02,37.0,Mumbai,Keyboard,Accessories,1,1758.45,5.0,1670.53,UPI,Website,4.7
+ORD10019,2025-08-24,24.0,Kolkata,Smartphone,Mobiles,4,25482.69,10.0,91737.68,Credit Card,Marketplace,3.9
+ORD10020,2025-08-04,33.0,Mumbai,Keyboard,Accessories,2,499999.0,0.0,3909.16,Debit Card,Marketplace,3.7
+ORD10021,2025-11-11,59.0,CHENNAI,Smartphone,Mobiles,2,25154.32,25.0,37731.48,UPI,Website,3.7
+ORD10022,2025-11-08,27.0,Mumbai,Laptop,Computers,3,71427.93,20.0,171427.03,UPI,Website,3.8
+ORD10023,2025-10-22,55.0,Mumbai,Smartphone,Mobiles,1,29020.32,5.0,27569.3,net banking,Mobile App,4.6
+ORD10024,2025-12-24,23.0,Delhi,Laptop,Computers,1,65619.23,5.0,62338.27,Credit Card,Mobile App,4.4
+ORD10025,2025-05-09,63.0,Chennai,Keyboard,Accessories,4,1560.55,20.0,4993.76,Credit Card,Marketplace,5.0
+ORD10026,2025-03-26,36.0,DELHI,Smartwatch ,Wearables,2,6828.36,0.0,13656.72,Debit Card,Store,4.7
+ORD10027,2025-01-29,21.0,,Smartwatch,Wearables,4,8671.09,5.0,32950.14,Cash on Delivery,Website,3.7
+ORD10028,2025-12-11,18.0,Pune,Keyboard,Accessories,2,1693.75,0.0,3387.5,UPI,Marketplace,4.1
+ORD10029,2025-01-17,56.0,Hyderabad,Smartwatch,Wearables,3,7965.11,15.0,20311.03,Net Banking,Store,3.5
+ORD10030,2025-06-16,61.0,Chennai,Laptop,Computers,4,50131.24,10.0,180472.46,Debit Card,Mobile App,3.2
+ORD10031,2025-04-05,40.0,Chennai,Headphones,Accessories,1,2831.05,10.0,2547.95,Net Banking,Mobile App,4.2
+ORD10032,2025-02-14,32.0,Chennai,Smartphone,Mobiles,3,33280.35,15.0,84864.89,Net Banking,Website,4.0
+ORD10033,2025-03-11,22.0,Mumbai,Keyboard,Accessories,2,2061.36,25.0,3092.04,Credit Card,Mobile App,2.7
+ORD10034,2025-02-13,32.0,Hyderabad,Keyboard,Accessories,1,1567.56,25.0,1175.67,Cash on Delivery,Website,3.9
+ORD10035,2025-04-26,26.0,Mumbai,Tablet,Computers,1,26022.89,25.0,19517.17,Debit Card,Store,2.6
+ORD10036,2025-04-03,50.0,Pune,Headphones,Accessories,1,2147.73,15.0,1825.57,Credit Card,Store,2.9
+ORD10037,2025-03-27,43.0,Hyderabad,Headphones,Accessories,3,2276.35,5.0,6487.6,Credit Card,Marketplace,5.0
+ORD10038,2025-03-24,28.0,Hyderabad,Keyboard,Accessories,3,1928.37,10.0,5206.6,UPI,Website,5.0
+ORD10039,2025-08-24,32.0,Delhi,Smartwatch,Wearables,1,5735.18,10.0,5161.66,Cash on Delivery,Marketplace,2.8
+ORD10040,2025-10-18,60.0,HYDERABAD,Laptop,Computers,1,58195.25,25.0,43646.44,Cash on Delivery,Store,3.7
+ORD10041,2025-12-29,38.0,Pune,Smartphone,Mobiles,3,31677.83,10.0,85530.14,Net Banking,Marketplace,5.0
+ORD10042,2025-06-24,35.0,Hyderabad,Monitor,Computers,2,12569.84,25.0,18854.76,Credit Card,Store,4.0
+ORD10043,2025-04-13,27.0,Hyderabad,Keyboard,Accessories,2,1724.51,20.0,2759.22,UPI,Website,4.7
+ORD10044,2025-03-11,24.0,Mumbai,Laptop,Computers,2,54897.41,10.0,98815.34,Credit Card,Marketplace,3.9
+ORD10045,2025-02-10,54.0,Delhi,Tablet,Computers,1,17281.82,15.0,14689.55,Cash on Delivery,Mobile App,
+ORD10046,2025-07-05,29.0,Delhi,Smartphone,Mobiles,45,24871.16,0.0,24871.16,UPI,Mobile App,4.5
+ORD10047,2025-01-16,52.0,Kolkata,Keyboard,Accessories,1,1769.89,10.0,1592.9,Cash on Delivery,Website,1.5
+ORD10048,2025-07-25,36.0,Hyderabad,Laptop,Computers,1,64988.31,5.0,61738.89,Cash on Delivery,Marketplace,4.1
+ORD10049,2025-12-13,24.0,Pune,Laptop,Computers,1,52289.92,15.0,44446.43,Cash on Delivery,Store,4.6
+ORD10050,2025-10-02,47.0,Pune,Tablet,Computers,2,25898.7,10.0,46617.66,Net Banking,Mobile App,5.0
+ORD10051,2025-06-10,49.0,Pune,Smartphone,Mobiles,4,21967.29,20.0,70295.33,Credit Card,Store,5.0
+ORD10052,2025-08-21,20.0,Bengaluru,Monitor,Computers,1,14743.94,20.0,11795.15,Net Banking,Store,
+ORD10053,2025-06-28,41.0,Bengaluru,Smartphone,Mobiles,1,23260.69,10.0,20934.62,Debit Card,Website,4.8
+ORD10054,2025-06-09,45.0,Chennai,Laptop,Computers,1,69809.5,5.0,66319.02,Credit Card,Website,2.5
+ORD10055,2025-08-22,51.0,Mumbai,Headphones,Accessories,2,2223.13,15.0,3779.32,Net Banking,Mobile App,3.0
+ORD10056,2025-10-09,19.0,Hyderabad,Headphones,Accessories,1,2519.38,15.0,2141.47,Debit Card,Mobile App,1.8
+ORD10057,2025-07-09,19.0,DELHI,Smartwatch,Wearables,1,8373.59,20.0,6698.87,Debit Card,Store,4.2
+ORD10058,2025-01-07,18.0,Bengaluru,Monitor,Computers,2,17520.25,20.0,28032.4,Cash on Delivery,Marketplace,4.0
+ORD10059,2025-07-04,30.0,Bengaluru,Monitor,Computers,4,16011.71,25.0,48035.13,Cash on Delivery,Mobile App,2.2
+ORD10060,2025-10-22,31.0,Delhi,Laptop,Computers,3,72384.1,0.0,217152.3,Debit Card,Store,4.7
+ORD10061,2025-04-27,41.0,Chennai,Laptop,Computers,2,66534.86,5.0,126416.23,Debit Card,Store,4.8
+ORD10062,2025-11-13,28.0,Kolkata,Headphones,Accessories,1,2429.09,0.0,2429.09,Cash on Delivery,Marketplace,5.0
+ORD10063,2025-09-14,21.0,Hyderabad,Tablet,Computers,2,21094.2,15.0,35860.14,Cash on Delivery,Marketplace,4.8
+ORD10064,2025-01-24,48.0,Bengaluru,Headphones,Accessories,1,2275.09,0.0,2275.09,Credit Card,Marketplace,3.3
+ORD10065,2025-05-19,,Chennai,Smartphone,Mobiles,1,30213.35,20.0,24170.68,Net Banking,Website,4.6
+ORD10066,2025-02-05,25.0,Kolkata,Headphones,Accessories,1,2048.83,5.0,1946.39,UPI,Mobile App,4.7
+ORD10067,2025-06-14,28.0,Bengaluru,Smartphone,Mobiles,2,32181.01,0.0,64362.02,Credit Card,Marketplace,2.6
+ORD10068,2025-09-21,43.0,Kolkata,Monitor,Computers,4,15394.79,10.0,55421.24,Cash on Delivery,Mobile App,
+ORD10069,2025-03-27,34.0,Mumbai,Tablet,Computers,1,25263.21,15.0,21473.73,Debit Card,Marketplace,3.9
+ORD10070,2025-02-15,58.0,CHENNAI,Keyboard,Accessories,4,2040.56,0.0,8162.24,Net Banking,Marketplace,5.0
+ORD10071,2025-07-28,58.0,Kolkata,Smartphone,Mobiles,1,31142.9,20.0,24914.32,Net Banking,Website,3.5
+ORD10072,2025-10-06,51.0,Delhi,Monitor,Computers,3,13584.01,95.0,36676.83,UPI,Store,2.9
+ORD10073,2025-08-13,21.0,Hyderabad,Smartphone,Mobiles,4,27499.95,20.0,87999.84,UPI,Website,4.7
+ORD10074,2025-10-01,29.0,Delhi,Laptop,Computers,2,58516.32,5.0,111181.01,UPI,Marketplace,2.8
+ORD10075,2025-01-31,22.0,Delhi,Smartwatch,Wearables,1,6746.94,0.0,6746.94,Credit Card,Mobile App,4.8
+ORD10076,2025-12-07,35.0,Bengaluru,Smartwatch,Wearables,1,7731.46,0.0,7731.46,Net Banking,Store,3.7
+ORD10077,2025-03-29,59.0,Mumbai,Tablet,Computers,2,21079.22,15.0,35834.67,Debit Card,Mobile App,4.0
+ORD10078,2025-12-10,65.0,Hyderabad,Keyboard,Accessories,1,1884.25,0.0,1884.25,debit card,Mobile App,2.8
+ORD10079,2025-08-15,35.0,Hyderabad,Laptop,Computers,1,61892.33,10.0,55703.1,Debit Card,Marketplace,3.2
+ORD10080,2025-04-12,35.0,Mumbai,Tablet,Computers,1,19768.86,20.0,15815.09,Net Banking,Store,2.4
+ORD10081,2025-03-25,26.0,Mumbai,Laptop,Computers,1,55649.52,20.0,44519.62,Debit Card,Store,3.3
+ORD10082,2025-02-04,38.0,Mumbai,Monitor,Computers,4,13554.77,10.0,48797.17,UPI,Website,3.3
+ORD10083,2025-10-13,18.0,Hyderabad,Smartphone,Mobiles,4,32140.72,15.0,109278.45,Net Banking,Marketplace,5.0
+ORD10084,2025-11-29,54.0,Chennai,Smartwatch,Wearables,3,8305.79,10.0,22425.63,Debit Card,Website,4.6
+ORD10085,2025-06-11,20.0,Pune,Smartphone,Mobiles,1,22212.39,5.0,21101.77,Debit Card,Marketplace,4.2
+ORD10086,2025-01-08,45.0,Kolkata,Smartphone,Mobiles,3,23765.34,5.0,67731.22,Net Banking,Marketplace,3.4
+ORD10087,2025-05-26,53.0,Mumbai,Tablet,Computers,1,26183.33,0.0,26183.33,Credit Card,Mobile App,3.5
+ORD10088,2025-10-29,53.0,Kolkata,Headphones,Accessories,1,3058.19,25.0,2293.64,Net Banking,Mobile App,4.1
+ORD10089,2025-08-13,22.0,Bengaluru,Tablet,Computers,2,20205.04,5.0,38389.58,Credit Card,Website,3.0
+ORD10090,2025-07-30,36.0,Pune,Smartphone,Mobiles,1,29000.39,5.0,27550.37,Debit Card,Mobile App,4.6
+ORD10091,2025-07-21,42.0,Kolkata,Smartwatch,Wearables,4,8162.09,20.0,26118.69,UPI,Store,3.3
+ORD10092,2025-01-07,20.0,Chennai,Laptop,Computers,1,49809.15,20.0,39847.32,Debit Card,Mobile App,3.5
+ORD10093,2025-10-09,38.0,Bengaluru,Monitor,Computers,4,16139.22,0.0,64556.88,Cash on Delivery,Marketplace,5.0
+ORD10094,2025-01-19,,Delhi,Monitor,Computers,1,11786.39,0.0,11786.39,Net Banking,Store,4.6
+ORD10095,2025-12-21,37.0,Pune,Smartphone,Mobiles,2,30726.25,10.0,55307.25,Net Banking,Website,4.0
+ORD10096,2025-03-14,49.0,Mumbai,Smartwatch ,Wearables,4,7886.08,15.0,26812.67,Net Banking,Website,4.8
+ORD10097,2025-02-03,27.0,Pune,Monitor,Computers,1,14229.71,10.0,12806.74,Credit Card,Marketplace,4.5
+ORD10098,2025-10-24,44.0,Delhi,Smartphone,Mobiles,3,32919.57,15.0,83944.9,Credit Card,Marketplace,4.8
+ORD10099,2025-10-20,24.0,Pune,Keyboard,Accessories,1,2076.9,5.0,1973.06,Debit Card,Store,5.0
+ORD10100,2025-03-02,30.0,Hyderabad,Tablet,Computers,2,18583.28,5.0,35308.23,Credit Card,Mobile App,3.6
+ORD10101,2025-10-03,60.0,Chennai,Headphones,Accessories,1,2325.7,0.0,2325.7,Net Banking,Store,4.5
+ORD10102,2025-10-28,40.0,Pune,Headphones,Accessories,2,2553.71,10.0,4596.68,Debit Card,Marketplace,3.8
+ORD10103,2025-05-19,31.0,Pune,Smartphone,Mobiles,2,34706.79,0.0,69413.58,UPI,Marketplace,0.1
+ORD10104,2025-01-07,60.0,Kolkata,Monitor,Computers,2,18066.57,10.0,32519.83,Credit Card,Mobile App,3.2
+ORD10105,2025-04-18,35.0,Kolkata,Laptop,Computers,2,55994.39,15.0,95190.46,Debit Card,Store,3.1
+ORD10106,2025-02-28,55.0,Chennai,Smartphone,Mobiles,1,29463.31,20.0,23570.65,Debit Card,Mobile App,3.3
+ORD10107,2025-12-14,41.0,Delhi,Laptop,Computers,1,57690.64,5.0,54806.11,Debit Card,Store,5.0
+ORD10108,2025-03-26,23.0,Delhi,Headphones,Accessories,1,2034.52,0.0,2034.52,UPI,Marketplace,5.0
+ORD10109,2025-08-15,47.0,Hyderabad,Keyboard,Accessories,2,1604.91,15.0,2728.35,Credit Card,Mobile App,3.7
+ORD10110,2025-05-15,39.0,Bengaluru,Smartphone,Mobiles,1,26533.32,15.0,22553.32,Credit Card,Marketplace,3.6
+ORD10111,2025-08-06,64.0,,Headphones,Accessories,1,2942.09,10.0,2647.88,Cash on Delivery,Website,3.7
+ORD10112,2025-07-05,21.0,Kolkata,Tablet,Computers,4,20450.68,10.0,73622.45,Credit Card,Marketplace,4.7
+ORD10113,2025-10-17,30.0,Pune,Smartwatch,Wearables,1,5709.46,25.0,4282.1,Debit Card,Store,3.9
+ORD10114,2025-11-08,23.0,Mumbai,Laptop,Computers,1,69499.53,20.0,55599.62,Net Banking,Store,2.1
+ORD10115,2025-07-23,20.0,Pune,Smartwatch,Wearables,2,8452.87,0.0,16905.74,Credit Card,Mobile App,4.7
+ORD10116,2025-04-21,53.0,Mumbai,Keyboard,Accessories,1,2009.33,20.0,1607.46,Cash on Delivery,Mobile App,3.8
+ORD10117,2025-11-19,46.0,Pune,Tablet,Computers,2,20518.25,0.0,41036.5,UPI,Website,4.1
+ORD10118,2025-08-07,28.0,Mumbai,Tablet,Computers,3,19756.4,20.0,47415.36,Cash on Delivery,Marketplace,4.6
+ORD10119,2025-05-11,51.0,Mumbai,Smartphone,Mobiles,2,24551.35,0.0,49102.7,Credit Card,Website,3.7
+ORD10120,2025-07-27,56.0,Bengaluru,Smartwatch,Wearables,4,6252.45,0.0,25009.8,cash on delivery,Website,3.6
+ORD10121,2025-12-15,26.0,Hyderabad,Smartphone,Mobiles,1,32116.65,15.0,27299.15,Cash on Delivery,Mobile App,4.5
+ORD10122,2025-10-26,19.0,Pune,Smartwatch,Wearables,3,6415.67,20.0,15397.61,Net Banking,Store,5.0
+ORD10123,2025-09-06,33.0,Mumbai,Laptop,Computers,1,58949.85,5.0,56002.36,Net Banking,Website,3.4
+ORD10124,2025-10-31,60.0,Kolkata,Laptop,Computers,4,72011.67,0.0,288046.68,Credit Card,Website,4.1
+ORD10125,2025-10-27,59.0,Mumbai,Headphones,Accessories,3,2117.51,0.0,6352.53,Net Banking,Website,4.1
+ORD10126,2025-06-14,61.0,Bengaluru,Smartwatch,Wearables,1,7890.69,0.0,7890.69,Cash on Delivery,Marketplace,3.9
+ORD10127,2025-08-17,32.0,Delhi,Headphones,Accessories,2,2349.79,20.0,3759.66,Cash on Delivery,Mobile App,4.6
+ORD10128,2025-02-04,37.0,Delhi,Headphones ,Accessories,1,2150.51,20.0,1720.41,Net Banking,Website,3.8
+ORD10129,2025-07-15,47.0,Mumbai,Smartwatch,Wearables,2,6314.43,10.0,11365.97,UPI,Marketplace,3.1
+ORD10130,2025-10-27,65.0,Mumbai,Monitor,Computers,2,17536.84,20.0,28058.94,Net Banking,Marketplace,3.0
+ORD10131,2025-11-29,48.0,Hyderabad,Monitor,Computers,1,11628.07,10.0,10465.26,Cash on Delivery,Website,5.0
+ORD10132,2025-08-18,43.0,Delhi,Smartwatch,Wearables,2,5943.32,10.0,10697.98,UPI,Store,3.6
+ORD10133,2025-09-20,34.0,Mumbai,Laptop,Computers,3,62057.75,15.0,158247.26,Credit Card,Mobile App,3.9
+ORD10134,2025-05-20,37.0,Hyderabad,Smartphone,Mobiles,1,24966.75,15.0,21221.74,Debit Card,Mobile App,3.4
+ORD10135,2025-06-21,24.0,Mumbai,Headphones,Accessories,1,2658.05,15.0,2259.34,Debit Card,Website,5.0
+ORD10136,2025-02-08,40.0,Hyderabad,Monitor,Computers,2,12588.82,5.0,23918.76,Cash on Delivery,Mobile App,4.6
+ORD10137,2025-02-18,32.0,Mumbai,Headphones,Accessories,2,2547.61,5.0,4840.46,Cash on Delivery,Website,4.0
+ORD10138,2025-07-12,28.0,Chennai,Smartphone ,Mobiles,1,21912.46,10.0,19721.21,Cash on Delivery,Marketplace,3.9
+ORD10139,2025-10-30,39.0,Chennai,Headphones,Accessories,3,2398.03,15.0,6114.98,upi,Marketplace,4.4
+ORD10140,2025-08-17,32.0,Pune,Keyboard,Accessories,3,1656.54,5.0,4721.14,Net Banking,Mobile App,2.6
+ORD10141,2025-07-07,30.0,Mumbai,Keyboard,Accessories,3,1688.94,25.0,3800.12,UPI,Mobile App,4.1
+ORD10142,2025-09-29,64.0,Delhi,Tablet,Computers,2,20268.01,0.0,40536.02,Debit Card,Marketplace,3.6
+ORD10143,2025-09-09,41.0,,Monitor,Computers,3,11316.47,5.0,32251.94,Debit Card,Mobile App,4.9
+ORD10144,2025-09-01,60.0,Pune,Keyboard,Accessories,3,2224.25,15.0,5671.84,Credit Card,Mobile App,4.0
+ORD10145,2025-02-15,35.0,Delhi,Keyboard,Accessories,3,1961.5,0.0,5884.5,Debit Card,Website,4.0
+ORD10146,2025-02-24,,Mumbai,Tablet,Computers,1,27386.08,,27386.08,Debit Card,Marketplace,4.8
+ORD10147,2025-10-08,29.0,Hyderabad,Keyboard,Accessories,1,1797.34,15.0,1527.74,Cash on Delivery,Marketplace,2.1
+ORD10148,2025-05-08,36.0,Bengaluru,Monitor,Computers,1,13170.9,5.0,12512.36,Cash on Delivery,Store,3.6
+ORD10149,2025-07-05,28.0,Bengaluru,Smartwatch,Wearables,1,6149.16,15.0,5226.79,Credit Card,Mobile App,3.4
+ORD10150,2025-03-16,35.0,Pune,Headphones,Accessories,4,2637.58,15.0,8967.77,Credit Card,Website,3.7
+ORD10151,2025-04-09,52.0,Bengaluru,Smartwatch,Wearables,4,5687.26,15.0,1250000.0,Debit Card,Store,
+ORD10152,2025-06-04,51.0,Bengaluru,Headphones,Accessories,2,2207.59,20.0,3532.14,UPI,Marketplace,
+ORD10153,2025-05-17,43.0,Delhi,Keyboard,Accessories,3,2198.45,5.0,6265.58,Net Banking,Marketplace,2.9
+ORD10154,2025-08-20,41.0,Delhi,Tablet,Computers,2,19072.43,10.0,34330.37,Credit Card,Marketplace,4.6
+ORD10155,2025-02-20,47.0,Bengaluru,Laptop,Computers,1,51358.93,10.0,46223.04,Credit Card,Mobile App,3.4
+ORD10156,2025-01-02,55.0,MUMBAI,Monitor,Computers,1,13247.74,15.0,11260.58,Credit Card,Mobile App,3.5
+ORD10157,2025-12-11,41.0,Kolkata,Monitor,Computers,2,16580.66,10.0,29845.19,Debit Card,Store,4.8
+ORD10158,2025-06-13,,Mumbai,Laptop,Computers,1,64757.65,0.0,64757.65,Net Banking,Mobile App,5.0
+ORD10159,2025-09-07,44.0,Mumbai,Tablet,Computers,2,20415.75,20.0,32665.2,UPI,Marketplace,4.2
+ORD10160,2025-01-13,43.0,Pune,Tablet,Computers,2,21623.94,25.0,32435.91,Cash on Delivery,Mobile App,5.0
+ORD10161,2025-02-21,65.0,Mumbai,Smartphone,Mobiles,4,33909.57,10.0,122074.45,UPI,Mobile App,4.7
+ORD10162,2025-06-08,48.0,Mumbai,Monitor,Computers,2,13368.5,10.0,24063.3,Credit Card,Mobile App,3.5
+ORD10163,2025-02-13,34.0,Pune,Monitor,Computers,1,12932.71,15.0,10992.8,Credit Card,Marketplace,
+ORD10164,2025-05-02,32.0,Chennai,Tablet,Computers,3,21713.17,5.0,61882.53,Net Banking,Store,3.6
+ORD10165,2025-09-19,26.0,Bengaluru,Monitor,Computers,1,14427.37,10.0,12984.63,Debit Card,Marketplace,4.0
+ORD10166,2025-05-19,43.0,Pune,Keyboard,Accessories,1,2190.63,25.0,1642.97,UPI,Marketplace,3.3
+ORD10167,2025-05-29,58.0,Bengaluru,Tablet,Computers,2,25773.67,10.0,46392.61,Credit Card,Store,3.9
+ORD10168,2025-04-24,57.0,Pune,Smartphone,Mobiles,1,29956.05,0.0,29956.05,Net Banking,Marketplace,2.7
+ORD10169,2025-04-29,35.0,Kolkata,Tablet,Computers,1,18155.46,0.0,18155.46,Credit Card,Marketplace,3.6
+ORD10170,2025-01-10,24.0,Delhi,Tablet,Computers,4,21471.22,15.0,73002.15,Debit Card,Marketplace,2.9
+ORD10171,2025-04-16,52.0,Chennai,Headphones,Accessories,4,2084.22,15.0,7086.35,Debit Card,Website,4.0
+ORD10172,2025-09-25,26.0,Bengaluru,Monitor,Computers,4,13614.64,0.0,54458.56,Net Banking,Mobile App,4.3
+ORD10173,2025-05-05,50.0,Delhi,Smartphone,Mobiles,1,24238.11,25.0,18178.58,Net Banking,Marketplace,4.6
+ORD10174,2025-04-23,22.0,Mumbai,Smartwatch,Wearables,4,5536.65,20.0,17717.28,UPI,Store,4.2
+ORD10175,2025-12-12,42.0,Delhi,Monitor,Computers,1,15433.57,10.0,13890.21,Net Banking,Mobile App,3.7
+ORD10176,2025-04-22,65.0,Bengaluru,Keyboard,Accessories,2,1644.12,15.0,2795.0,UPI,Marketplace,4.6
+ORD10177,2025-07-03,57.0,Bengaluru,Keyboard,Accessories,1,1702.42,10.0,1532.18,UPI,Mobile App,4.3
+ORD10178,2025-02-10,48.0,Kolkata,Tablet,Computers,4,23297.74,10.0,83871.86,Debit Card,Marketplace,4.3
+ORD10179,2025-07-31,37.0,Chennai,Headphones,Accessories,1,2421.7,10.0,2179.53,Net Banking,Marketplace,3.0
+ORD10180,2025-10-12,39.0,Mumbai,Smartphone,Mobiles,2,24976.44,15.0,42459.95,,Store,3.8
+ORD10181,2025-06-27,32.0,Kolkata,Tablet,Computers,1,25362.03,10.0,22825.83,,Mobile App,3.3
+ORD10182,2025-03-03,59.0,Chennai,Smartphone,Mobiles,2,29767.47,15.0,50604.7,Cash on Delivery,Marketplace,3.5
+ORD10183,2025-07-04,60.0,Kolkata,Headphones,Accessories,1,1994.93,0.0,1994.93,Credit Card,Website,4.7
+ORD10184,2025-07-02,28.0,Pune,Headphones,Accessories,2,2996.61,10.0,5393.9,Credit Card,Mobile App,3.5
+ORD10185,2025-12-07,35.0,Delhi,Tablet,Computers,2,17498.37,0.0,34996.74,UPI,Store,3.9
+ORD10186,2025-08-09,49.0,Pune,Headphones,Accessories,1,2299.18,0.0,2299.18,UPI,Website,4.1
+ORD10187,2025-05-15,61.0,Kolkata,Keyboard,Accessories,4,2145.33,10.0,7723.19,cash on delivery,Website,5.0
+ORD10188,2025-09-27,46.0,Hyderabad,Smartphone,Mobiles,4,22452.48,20.0,71847.94,Cash on Delivery,Website,3.5
+ORD10189,2025-01-03,40.0,Bengaluru,Smartwatch,Wearables,1,6435.01,20.0,5148.01,Cash on Delivery,Mobile App,4.1
+ORD10190,2025-09-21,34.0,Hyderabad,Smartwatch,Wearables,1,5469.17,10.0,4922.25,UPI,Marketplace,3.6
+ORD10191,2025-01-23,56.0,Chennai,Headphones,Accessories,1,1971.19,25.0,1478.39,Net Banking,Marketplace,5.0
+ORD10192,2025-01-19,56.0,Mumbai,Laptop,Computers,1,64728.4,25.0,48546.3,UPI,Mobile App,4.1
+ORD10193,2025-04-20,48.0,Bengaluru,Smartphone,Mobiles,1,34949.06,15.0,29706.7,Credit Card,Store,3.7
+ORD10194,2025-10-20,21.0,Mumbai,Monitor,Computers,3,13998.79,25.0,31497.28,UPI,Store,4.4
+ORD10195,2025-12-16,31.0,Kolkata,Headphones,Accessories,1,2532.55,20.0,2026.04,Cash on Delivery,Marketplace,4.5
+ORD10196,2025-04-25,40.0,Mumbai,Monitor,Computers,3,16134.75,20.0,38723.4,Debit Card,Website,3.7
+ORD10197,2025-11-30,20.0,Delhi,Laptop,Computers,2,71044.91,10.0,127880.84,Net Banking,Website,2.4
+ORD10198,2025-11-30,18.0,Delhi,Monitor,Computers,2,14484.4,10.0,26071.92,UPI,Mobile App,4.3
+ORD10199,2025-04-12,65.0,Hyderabad,Monitor,Computers,2,16073.75,15.0,27325.38,Debit Card,Store,4.1
+ORD10200,2025-03-15,60.0,Delhi,Keyboard,Accessories,1,1818.31,0.0,1818.31,UPI,Website,3.9
+ORD10201,2025-05-25,35.0,Hyderabad,Smartwatch,Wearables,2,8618.81,5.0,16375.74,UPI,Website,4.5
+ORD10202,2025-05-13,58.0,Pune,Headphones,Accessories,2,2573.67,25.0,3860.5,Debit Card,Marketplace,3.2
+ORD10203,2025-12-08,46.0,Delhi,Monitor,Computers,3,16218.29,5.0,46222.13,Debit Card,Mobile App,4.4
+ORD10204,2025-11-10,43.0,,Smartphone,Mobiles,4,27243.45,0.0,108973.8,Net Banking,Store,5.0
+ORD10205,2025-04-05,,Hyderabad,Monitor,Computers,4,14139.67,15.0,48074.88,Debit Card,Marketplace,2.7
+ORD10206,2025-03-09,55.0,Chennai,Smartphone,Mobiles,1,23927.38,10.0,21534.64,Net Banking,Website,3.3
+ORD10207,2025-09-28,38.0,Bengaluru,Keyboard,Accessories,2,1750.8,15.0,2976.36,Net Banking,Marketplace,4.1
+ORD10208,2025-11-21,52.0,Kolkata,Smartphone,Mobiles,2,24325.51,5.0,46218.47,UPI,Website,4.0
+ORD10209,2025-09-29,22.0,Delhi,Headphones,Accessories,3,2482.96,15.0,6331.55,Credit Card,Store,5.0
+ORD10210,2025-03-15,60.0,Kolkata,Laptop,Computers,1,55264.24,10.0,49737.82,UPI,Mobile App,3.9
+ORD10211,2025-11-19,56.0,Chennai,Headphones,Accessories,1,2805.38,10.0,2524.84,Cash on Delivery,Marketplace,4.5
+ORD10212,2025-08-25,43.0,Delhi,Keyboard,Accessories,1,1827.3,5.0,1735.94,Credit Card,Mobile App,3.6
+ORD10213,2025-11-02,62.0,Bengaluru,Smartwatch,Wearables,2,6528.09,15.0,11097.75,Debit Card,Store,
+ORD10214,2025-10-07,63.0,Bengaluru,Keyboard,Accessories,1,1869.22,5.0,1775.76,Debit Card,Store,4.5
+ORD10215,2025-12-03,18.0,,Tablet,Computers,2,22674.28,20.0,36278.85,UPI,Mobile App,2.9
+ORD10216,2025-06-18,60.0,Bengaluru,Headphones,Accessories,4,2637.42,5.0,10022.2,Credit Card,Mobile App,2.6
+ORD10217,2025-08-30,48.0,Delhi,Laptop,Computers,1,49528.05,10.0,44575.24,Credit Card,Mobile App,2.9
+ORD10218,2025-12-26,32.0,Delhi,Laptop,Computers,2,71700.05,10.0,129060.09,Cash on Delivery,Marketplace,4.7
+ORD10219,2025-04-24,32.0,Kolkata,Smartwatch,Wearables,1,8414.92,10.0,7573.43,Debit Card,Store,
+ORD10220,2025-03-26,57.0,Chennai,Smartphone ,Mobiles,1,22901.29,20.0,18321.03,Credit Card,Marketplace,3.5
+ORD10221,2025-09-13,41.0,Hyderabad,Headphones,Accessories,2,2681.4,5.0,5094.66,Credit Card,Store,4.5
+ORD10222,2025-07-29,45.0,,Monitor,Computers,4,15629.75,20.0,50015.2,Cash on Delivery,Marketplace,3.3
+ORD10223,2025-02-10,20.0,Pune,Laptop,Computers,1,54810.72,5.0,52070.18,Net Banking,Marketplace,5.0
+ORD10224,2025-06-30,52.0,PUNE,Smartwatch,Wearables,4,7175.99,20.0,22963.17,Net Banking,Website,3.3
+ORD10225,2025-05-02,61.0,Kolkata,Keyboard,Accessories,2,1582.33,10.0,2848.19,UPI,Marketplace,3.2
+ORD10226,2025-04-01,26.0,Bengaluru,Smartphone,Mobiles,3,27985.71,0.0,83957.13,UPI,Marketplace,4.1
+ORD10227,2025-04-20,60.0,Chennai,Tablet,Computers,2,23101.96,0.0,46203.92,UPI,Marketplace,4.3
+ORD10228,2025-12-26,27.0,Mumbai,Keyboard,Accessories,1,2227.81,20.0,1782.25,Cash on Delivery,Marketplace,5.0
+ORD10229,2025-10-08,63.0,Pune,Tablet,Computers,3,27295.15,20.0,65508.36,UPI,Store,5.0
+ORD10230,2025-04-14,35.0,Mumbai,Monitor,Computers,1,15758.22,10.0,14182.4,Net Banking,Store,4.0
+ORD10231,2025-10-27,29.0,Mumbai,Laptop,Computers,2,56449.54,20.0,90319.26,Debit Card,Marketplace,3.4
+ORD10232,2025-11-13,33.0,Chennai,Smartphone,Mobiles,3,22598.38,10.0,61015.63,Net Banking,Marketplace,3.3
+ORD10233,2025-09-03,19.0,Pune,Keyboard,Accessories,2,2041.47,10.0,3674.65,Net Banking,Mobile App,3.8
+ORD10234,2025-06-08,21.0,Delhi,Smartphone,Mobiles,2,31078.8,10.0,55941.84,Net Banking,Mobile App,2.8
+ORD10235,2025-01-06,27.0,Hyderabad,Laptop,Computers,3,66704.74,15.0,170097.09,Credit Card,Mobile App,
+ORD10236,2025-10-09,31.0,Chennai,Smartphone,Mobiles,4,28397.2,5.0,107909.36,net banking,Website,5.0
+ORD10237,2025-11-19,27.0,Chennai,Monitor,Computers,2,16185.1,15.0,27514.67,Cash on Delivery,Website,2.8
+ORD10238,2025-03-26,38.0,Kolkata,Headphones,Accessories,2,2278.21,10.0,4100.78,Debit Card,Website,4.8
+ORD10239,2025-06-19,,Kolkata,Keyboard,Accessories,2,2150.63,25.0,3225.94,UPI,Store,4.0
+ORD10240,2025-05-31,,Delhi,Headphones,Accessories,1,2280.6,15.0,1938.51,Credit Card,Mobile App,4.1
+ORD10241,2025-11-26,,Mumbai,Smartphone,Mobiles,2,24254.44,10.0,43657.99,,Marketplace,3.8
+ORD10242,2025-11-16,33.0,Bengaluru,Smartphone,Mobiles,4,29320.42,15.0,99689.43,Cash on Delivery,Marketplace,4.8
+ORD10243,2025-07-23,39.0,Chennai,Tablet,Computers,2,20051.67,0.0,40103.34,UPI,Mobile App,4.2
+ORD10244,2025-04-17,28.0,Delhi,Headphones,Accessories,3,2720.34,25.0,6120.76,Cash on Delivery,Store,3.9
+ORD10245,2025-10-14,47.0,MUMBAI,Tablet,Computers,1,22613.23,0.0,22613.23,Credit Card,Mobile App,
+ORD10246,2025-08-14,55.0,Mumbai,Smartphone,Mobiles,2,22721.04,10.0,40897.87,Credit Card,Website,5.0
+ORD10247,2025-05-30,62.0,Hyderabad,Headphones,Accessories,2,2068.15,10.0,3722.67,Debit Card,Mobile App,4.7
+ORD10248,2025-08-19,46.0,Kolkata,Headphones,Accessories,1,2154.15,15.0,1831.03,UPI,Store,3.8
+ORD10249,2025-01-17,54.0,Kolkata,Monitor,Computers,4,15229.84,5.0,57873.39,Debit Card,Website,3.3
+ORD10250,2025-01-17,21.0,CHENNAI,Laptop,Computers,2,75720.45,5.0,143868.85,Cash on Delivery,Store,4.6
+ORD10251,2025-06-03,52.0,Chennai,Monitor,Computers,2,15833.35,20.0,25333.36,Cash on Delivery,Store,4.1
+ORD10252,2025-08-08,30.0,Mumbai,Smartphone,Mobiles,2,34151.2,0.0,68302.4,Cash on Delivery,Store,4.3
+ORD10253,2025-06-10,61.0,Mumbai,Smartwatch,Wearables,3,8540.35,15.0,21777.89,Cash on Delivery,Marketplace,4.0
+ORD10254,2025-08-30,56.0,Bengaluru,Keyboard,Accessories,1,1949.15,0.0,1949.15,Cash on Delivery,Marketplace,4.7
+ORD10255,2025-09-02,59.0,Mumbai,Tablet,Computers,4,19476.84,10.0,70116.62,UPI,Website,3.5
+ORD10256,2025-10-20,59.0,Bengaluru,Smartphone,Mobiles,1,23283.01,10.0,20954.71,Cash on Delivery,Store,3.4
+ORD10257,2025-06-18,45.0,Kolkata,Laptop,Computers,4,75905.37,20.0,242897.18,upi,Marketplace,3.6
+ORD10258,2025-01-30,57.0,Hyderabad,Tablet,Computers,3,26971.97,5.0,76870.11,Cash on Delivery,Website,3.7
+ORD10259,2025-02-07,54.0,Chennai,Smartwatch,Wearables,1,7093.03,,6029.08,,Store,3.7
+ORD10260,2025-12-15,23.0,Pune,Laptop,Computers,1,64264.07,5.0,61050.87,UPI,Mobile App,2.4
+ORD10261,2025-03-14,62.0,Kolkata,Tablet,Computers,1,23266.95,5.0,22103.6,Credit Card,Mobile App,2.8
+ORD10262,2025-08-09,49.0,Mumbai,Monitor,Computers,1,15043.76,0.0,15043.76,Debit Card,Marketplace,3.3
+ORD10263,2025-08-22,63.0,Bengaluru,Laptop,Computers,1,56557.6,15.0,48073.96,,Store,2.5
+ORD10264,2025-09-26,65.0,Delhi,Smartwatch,Wearables,4,5612.15,15.0,19081.31,Debit Card,Marketplace,4.3
+ORD10265,2025-05-24,65.0,Delhi,Headphones,Accessories,2,2925.37,0.0,5850.74,Debit Card,Mobile App,5.0
+ORD10266,2025-08-15,43.0,Hyderabad,Smartwatch,Wearables,1,6875.15,20.0,5500.12,Credit Card,Marketplace,2.9
+ORD10267,2025-11-22,30.0,Chennai,Smartphone,Mobiles,1,26385.46,10.0,23746.91,Net Banking,Website,5.0
+ORD10268,2025-04-11,49.0,Kolkata,Monitor,Computers,1,17265.82,20.0,13812.66,Debit Card,Store,3.3
+ORD10269,2025-07-26,43.0,DELHI,Keyboard,Accessories,1,1848.54,15.0,1571.26,Debit Card,Website,3.1
+ORD10270,2025-09-20,56.0,Pune,Headphones,Accessories,1,2428.55,5.0,2307.12,Credit Card,Mobile App,3.0
+ORD10271,2025-12-19,59.0,Delhi,Headphones,Accessories,2,2246.68,10.0,4044.02,Credit Card,Store,3.8
+ORD10272,2025-12-10,43.0,Chennai,Laptop,Computers,1,48383.64,20.0,38706.91,Credit Card,Mobile App,4.6
+ORD10273,2025-01-10,46.0,Hyderabad,Monitor,Computers,1,17078.84,20.0,13663.07,UPI,Marketplace,4.4
+ORD10274,2025-06-28,55.0,Bengaluru,Headphones,Accessories,1,2657.0,0.0,2657.0,Net Banking,Marketplace,4.8
+ORD10275,2025-06-05,26.0,Pune,Monitor,Computers,2,15875.25,5.0,30162.98,Credit Card,Store,4.2
+ORD10276,2025-08-11,40.0,Hyderabad,Tablet ,Computers,1,26314.91,10.0,23683.42,Cash on Delivery,Website,2.7
+ORD10277,2025-12-30,40.0,Chennai,Monitor,Computers,2,17536.58,25.0,26304.87,Net Banking,Website,3.8
+ORD10278,2025-12-29,60.0,Pune,Keyboard,Accessories,1,2149.97,0.0,2149.97,Debit Card,Website,3.1
+ORD10279,2025-09-29,18.0,Delhi,Headphones,Accessories,4,2591.74,0.0,10366.96,,Marketplace,3.3
+ORD10280,2025-01-21,53.0,Kolkata,Keyboard,Accessories,1,1758.27,15.0,1494.53,Credit Card,Website,
+ORD10281,2025-12-29,,Hyderabad,Smartwatch,Wearables,2,7452.92,15.0,12669.96,UPI,Mobile App,2.6
+ORD10282,2025-03-13,44.0,Hyderabad,Headphones,Accessories,2,2979.65,5.0,5661.34,Credit Card,Store,4.3
+ORD10283,2025-12-18,30.0,KOLKATA,Keyboard,Accessories,4,1603.94,15.0,5453.4,Debit Card,Mobile App,3.4
+ORD10284,2025-10-28,18.0,Bengaluru,Monitor,Computers,3,15190.34,15.0,38735.37,Cash on Delivery,Store,5.0
+ORD10285,2025-08-17,44.0,Mumbai,Laptop,Computers,2,50542.7,10.0,90976.86,Debit Card,Store,3.6
+ORD10286,2025-12-07,36.0,Mumbai,Monitor,Computers,1,14596.94,10.0,13137.25,Net Banking,Store,4.3
+ORD10287,2025-07-14,48.0,Bengaluru,Smartphone,Mobiles,2,26996.54,0.0,53993.08,Credit Card,Marketplace,4.6
+ORD10288,2025-09-03,37.0,Mumbai,Keyboard,Accessories,3,1756.07,10.0,4741.39,Cash on Delivery,Mobile App,3.8
+ORD10289,2025-01-27,51.0,Chennai,Keyboard,Accessories,3,2009.07,15.0,5123.13,UPI,Marketplace,4.7
+ORD10290,2025-10-20,53.0,Kolkata,Tablet,Computers,2,20074.49,5.0,38141.53,Credit Card,Marketplace,4.9
+ORD10291,2025-06-20,19.0,Chennai,Keyboard,Accessories,2,1975.54,5.0,3753.53,Net Banking,Mobile App,4.4
+ORD10292,2025-05-28,57.0,Kolkata,Smartwatch,Wearables,2,6504.41,15.0,11057.5,Net Banking,Mobile App,4.1
+ORD10293,2025-12-12,38.0,Bengaluru,Smartwatch,Wearables,1,8411.5,15.0,7149.78,Debit Card,Store,4.2
+ORD10294,2025-08-03,20.0,Chennai,Monitor,Computers,1,16161.2,5.0,15353.14,UPI,Mobile App,
+ORD10295,2025-06-06,55.0,Mumbai,Headphones,Accessories,1,1954.18,0.0,1954.18,Cash on Delivery,Store,5.0
+ORD10296,2025-08-28,43.0,Bengaluru,Keyboard,Accessories,2,1831.91,10.0,3297.44,Net Banking,Mobile App,2.8
+ORD10297,2025-01-09,22.0,Kolkata,Monitor,Computers,2,14982.82,15.0,25470.79,Net Banking,Marketplace,3.8
+ORD10298,2025-02-12,38.0,Delhi,Smartphone,Mobiles,1,22969.29,10.0,20672.36,Net Banking,Marketplace,4.1
+ORD10299,2025-02-11,45.0,Mumbai,Keyboard,Accessories,2,1992.89,20.0,3188.62,UPI,Website,5.0
+ORD10300,2025-11-18,28.0,Bengaluru,Laptop,Computers,2,54319.7,10.0,97775.46,Debit Card,Website,4.0
+ORD10301,2025-10-05,51.0,Mumbai,Tablet,Computers,2,24501.12,10.0,44102.02,Net Banking,Mobile App,4.9
+ORD10302,2025-04-14,35.0,Delhi,Headphones,Accessories,1,2078.76,25.0,1559.07,,Marketplace,4.6
+ORD10303,2025-08-28,27.0,Hyderabad,Monitor,Computers,2,16935.2,10.0,30483.36,Cash on Delivery,Website,4.8
+ORD10304,2025-03-20,49.0,Pune,Smartphone,Mobiles,2,32647.95,20.0,52236.72,Cash on Delivery,Store,3.9
+ORD10305,2025-10-24,55.0,Mumbai,Keyboard,Accessories,2,1532.64,10.0,2758.75,Cash on Delivery,Website,4.0
+ORD10306,2025-12-14,26.0,Kolkata,Tablet,Computers,1,23153.02,0.0,23153.02,Cash on Delivery,Mobile App,4.5
+ORD10307,2025-07-10,27.0,Kolkata,Keyboard,Accessories,1,1423.38,0.0,1423.38,Debit Card,Mobile App,4.5
+ORD10308,2025-08-12,43.0,,Monitor,Computers,3,17499.8,5.0,49874.43,Cash on Delivery,Website,2.2
+ORD10309,2025-02-14,23.0,Pune,Tablet,Computers,3,20827.69,15.0,53110.61,Debit Card,Website,3.9
+ORD10310,2025-07-10,18.0,Pune,Monitor,Computers,3,15857.01,15.0,40435.38,Cash on Delivery,Store,3.7
+ORD10311,2025-01-23,21.0,Pune,Headphones,Accessories,1,2031.71,0.0,2031.71,Credit Card,Mobile App,3.6
+ORD10312,2025-03-21,27.0,Pune,Smartwatch,Wearables,3,6628.92,0.0,19886.76,UPI,Mobile App,2.7
+ORD10313,2025-11-30,24.0,Hyderabad,Tablet,Computers,1,23561.53,25.0,17671.15,UPI,Mobile App,4.4
+ORD10314,2025-09-20,55.0,Bengaluru,Tablet,Computers,1,26294.58,20.0,21035.66,Debit Card,Store,4.6
+ORD10315,2025-05-24,50.0,Mumbai,Keyboard,Accessories,1,2021.21,,1920.15,Cash on Delivery,Marketplace,5.0
+ORD10316,2025-05-06,52.0,Delhi,Keyboard,Accessories,4,1875.42,15.0,6376.43,,Mobile App,5.0
+ORD10317,2025-07-24,52.0,Chennai,Smartphone,Mobiles,2,34491.89,25.0,51737.84,Credit Card,Store,4.5
+ORD10318,2025-04-25,60.0,Kolkata,Keyboard,Accessories,3,1445.78,20.0,3469.87,Credit Card,Mobile App,3.5
+ORD10319,2025-06-25,24.0,Chennai,Smartphone,Mobiles,4,25661.73,15.0,87249.88,,Store,3.5
+ORD10320,2025-05-31,52.0,Hyderabad,Monitor,Computers,2,17698.39,5.0,33626.94,Net Banking,Store,4.1
+ORD10321,2025-06-14,28.0,Mumbai,Keyboard,Accessories,2,1953.3,0.0,3906.6,Cash on Delivery,Store,5.0
+ORD10322,2025-11-04,34.0,Pune,Tablet,Computers,1,26257.01,20.0,21005.61,Net Banking,Store,3.8
+ORD10323,2025-03-24,48.0,Pune,Smartphone,Mobiles,2,34192.02,15.0,58126.43,Credit Card,Website,3.4
+ORD10324,2025-07-07,63.0,Hyderabad,Keyboard,Accessories,2,1418.79,20.0,2270.06,Cash on Delivery,Website,4.1
+ORD10325,2025-12-03,24.0,Hyderabad,Headphones ,Accessories,1,2074.79,25.0,1556.09,Debit Card,Marketplace,3.4
+ORD10326,2025-11-17,45.0,Pune,Headphones,Accessories,1,2318.03,5.0,2202.13,UPI,Marketplace,3.8
+ORD10327,2025-10-06,64.0,Bengaluru,Keyboard,Accessories,3,1449.99,5.0,4132.47,Net Banking,Store,4.5
+ORD10328,2025-11-05,19.0,Delhi,Smartwatch ,Wearables,1,6079.0,15.0,5167.15,Net Banking,Store,5.0
+ORD10329,2025-03-07,34.0,Chennai,Laptop,Computers,4,48466.96,5.0,184174.45,Debit Card,Marketplace,3.8
+ORD10330,2025-01-11,52.0,Mumbai,Monitor,Computers,1,13068.41,,13068.41,UPI,Website,4.5
+ORD10331,2025-02-02,,Delhi,Monitor,Computers,1,13932.95,,13932.95,Net Banking,Store,4.5
+ORD10332,2025-03-12,45.0,Bengaluru,Headphones,Accessories,1,2815.54,10.0,2533.99,Debit Card,Website,3.5
+ORD10333,2025-03-19,47.0,Hyderabad,Laptop,Computers,1,71881.58,0.0,71881.58,Net Banking,Mobile App,4.1
+ORD10334,2025-08-23,35.0,Chennai,Laptop,Computers,1,77427.48,5.0,73556.11,UPI,Store,4.3
+ORD10335,2025-08-28,36.0,Mumbai,Smartphone,Mobiles,1,29314.45,20.0,23451.56,Net Banking,Mobile App,4.1
+ORD10336,2025-07-27,28.0,Bengaluru,Smartphone,Mobiles,1,25786.16,15.0,21918.24,net banking,Marketplace,4.2
+ORD10337,2025-10-04,20.0,Delhi,Tablet,Computers,1,18660.62,0.0,18660.62,Cash on Delivery,Website,5.0
+ORD10338,2025-06-05,,BENGALURU,Tablet,Computers,4,24278.45,0.0,97113.8,UPI,Mobile App,4.7
+ORD10339,2025-04-20,24.0,Chennai,Laptop,Computers,1,76812.28,,76812.28,Credit Card,Mobile App,3.1
+ORD10340,2025-05-19,23.0,Bengaluru,Monitor,Computers,2,14211.28,20.0,22738.05,Cash on Delivery,Website,5.0
+ORD10341,2025-08-29,62.0,Mumbai,Headphones,Accessories,1,2532.75,15.0,2152.84,UPI,Mobile App,3.3
+ORD10342,2025-09-14,62.0,Pune,Smartphone,Mobiles,4,25993.61,25.0,77980.83,Debit Card,Website,4.3
+ORD10343,2025-02-18,42.0,Pune,Monitor,Computers,3,16812.47,20.0,40349.93,Debit Card,Store,5.0
+ORD10344,2025-08-15,47.0,Pune,Monitor,Computers,1,11478.77,10.0,10330.89,UPI,Marketplace,2.7
+ORD10345,2025-06-26,59.0,Pune,Smartphone,Mobiles,1,29200.15,5.0,27740.14,Net Banking,Website,4.7
+ORD10346,2025-05-13,50.0,Delhi,Monitor,Computers,1,16417.71,15.0,13955.05,Debit Card,Mobile App,3.7
+ORD10347,2025-11-27,44.0,Hyderabad,Tablet,Computers,2,24929.25,0.0,49858.5,Cash on Delivery,Store,4.4
+ORD10348,2025-06-28,58.0,Hyderabad,Tablet,Computers,1,26456.96,10.0,23811.26,Credit Card,Mobile App,4.1
+ORD10349,2025-07-27,19.0,Delhi,Keyboard,Accessories,2,2238.79,0.0,4477.58,Debit Card,Store,4.6
+ORD10350,2025-01-29,57.0,Pune,Smartphone,Mobiles,2,31488.49,25.0,47232.74,Debit Card,Mobile App,4.3
